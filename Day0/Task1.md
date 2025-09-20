@@ -49,7 +49,6 @@ This phase converts the RTL into a physical chip layout.
 **Hard Macros (HM):** Fixed, pre-placed IPs (e.g., memory, analog)  
 **Soft Macros:** Synthesizable RTL blocks (flexible)
 
----
 
 ##  Key Concepts
 
