@@ -46,12 +46,12 @@ This phase converts the RTL into a physical chip layout.
 
 - **GDSII File** is generated for fabrication.
 
-🧱 **Hard Macros (HM):** Fixed, pre-placed IPs (e.g., memory, analog)  
-🧱 **Soft Macros:** Synthesizable RTL blocks (flexible)
+**Hard Macros (HM):** Fixed, pre-placed IPs (e.g., memory, analog)  
+**Soft Macros:** Synthesizable RTL blocks (flexible)
 
 ---
 
-## 📌 Key Concepts
+##  Key Concepts
 
 | Term          | Description |
 |---------------|-------------|
@@ -60,9 +60,6 @@ This phase converts the RTL into a physical chip layout.
 | **GDSII**      | Final chip layout file used for fabrication |
 | **DRC**        | Design Rule Check for manufacturing compliance |
 | **LVS**        | Layout vs Schematic check for functional match |
-
-
-## ✅ Summary
 
 This flow ensures a smooth transition from a high-level idea to a real silicon chip
 
