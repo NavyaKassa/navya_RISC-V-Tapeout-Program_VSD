@@ -60,6 +60,10 @@ This phase converts the RTL into a physical chip layout.
 | **DRC**        | Design Rule Check for manufacturing compliance |
 | **LVS**        | Layout vs Schematic check for functional match |
 
+## Summary:
+
+![Alt Text](Images/Summary.jpeg)
+
 This flow ensures a smooth transition from a high-level idea to a real silicon chip
 
 
