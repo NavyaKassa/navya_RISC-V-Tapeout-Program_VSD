@@ -21,7 +21,7 @@ This initiative, titled **“From Silicon to Sovereignty”**, empowers students
 
 ## 📂 Weekly Progress
 
-- [Week 0 – Summary of Digital VLSI SOC Design & Planning, Tools Installation](Day0/Task1.md) ✅  
+- [Week 0 – Summary of Digital VLSI SOC Design & Planning, Tools Installation](Day0) ✅  
 ---
 
 ## 🚀 Key Takeaways
