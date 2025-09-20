@@ -29,6 +29,3 @@ This initiative, titled **“From Silicon to Sovereignty”**, empowers students
 - Understanding of **RISC-V ISA and SoC design**  
 - Exposure to the **complete RTL-to-GDSII chip design flow**  
 - Opportunity to be part of an **actual tapeout project**  
-
----
-
