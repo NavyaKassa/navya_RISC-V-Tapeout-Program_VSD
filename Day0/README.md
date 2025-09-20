@@ -1,4 +1,4 @@
-### **TOOL CHECK**
+### **TOOLS INSTALLMENT**
 
 #### **Yosys**
 
