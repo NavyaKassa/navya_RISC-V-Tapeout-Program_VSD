@@ -1,5 +1,13 @@
-### **TASK 2 - TOOLS INSTALLMENT**
+### **TASK 2 - System requirements & TOOLS INSTALLMENT**
 
+### System Requirements
+- **Operating System**: Ubuntu 20.04 or higher
+- **Memory (RAM)**: 6 GB minimum
+- **Storage**: 50 GB HDD
+- **CPU**: 4 vCPU (or equivalent multi-core processor)
+
+
+### TOOLS Installation Instructions
 #### **Yosys**
 
 ```bash
