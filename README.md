@@ -29,3 +29,15 @@ This initiative, titled **“From Silicon to Sovereignty”**, empowers students
 - Understanding of **RISC-V ISA and SoC design**  
 - Exposure to the **complete RTL-to-GDSII chip design flow**  
 - Opportunity to be part of an **actual tapeout project**  
+
+---
+## 🙏 Acknowledgments
+
+I would like to express my heartfelt gratitude to **Kunal Ghosh** and the **VLSI System Design (VSD) Team** for creating and leading the **RISC-V SoC Tapeout Program**, and for their continuous guidance throughout this journey.  
+
+My sincere thanks to **IIT Gandhinagar** for supporting this initiative, and to **Synopsys** for providing access to industry-grade EDA tools that made hands-on learning possible.  
+
+I also gratefully acknowledge the support of **RISC-V International**, **India Semiconductor Mission (ISM)**, **VLSI Society of India (VSI)**, and **Efabless** for enabling and encouraging open-source silicon design through this program.  
+
+This collective effort has provided me with an invaluable opportunity to learn, grow, and contribute to the exciting world of **RISC-V and VLSI design**.
+
