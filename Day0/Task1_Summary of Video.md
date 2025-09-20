@@ -62,7 +62,7 @@ This phase converts the RTL into a physical chip layout.
 
 ## Summary:
 
-![Alt Text](Images/Summary.jpeg)
+![Alt text](Images/Summary.png)
 
 This flow ensures a smooth transition from a high-level idea to a real silicon chip
 
